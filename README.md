@@ -1,1 +1,1 @@
-# Veloz-hub-v30
+ loadstring(game:HttpGet("https://pastefy.app/VmKkyQ9P/raw"))()
